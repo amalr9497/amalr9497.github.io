@@ -47561,7 +47561,7 @@ a4.toString
 a4=a4.gob()
 o=A.kn(B.cJ,A.a([new A.bf(new A.at(s,0,s,0),r,d),A.t9(-40,new A.bf(new A.at(q,0,q,0),A.d7(d,A.eg(A.a([n,B.mD,m,B.mD,a3,B.mD,A.f4(A.abo(new A.aEy(e,a5),!1,e.r.a.a,a4),3),B.jI,A.v_("assets/icons/arrow_forward.svg",B.A,B.kI,35,new A.aEz(e)),B.jI],a2),B.G,B.es,B.Q),B.x,d,d,new A.cm(B.l,d,d,p,o,d,d,B.ag),d,d,d,B.PN,d,d,d),d),d,d,20,20,d,d)],a2),B.x,B.bO)
 p=A.cB(d,60,d)
-a4=A.aM(a5,d,a0).w.a.a/12
+a4=A.aM(a5,d,a0).w.a.a/15
 a3=A.ah(a5,B.m,a1)
 a3.toString
 a3=a3.gDv()
@@ -47569,7 +47569,7 @@ m=A.cB(d,20,d)
 n=e.CW.a
 q=A.Y(n).h("aa<1,e>")
 q=A.a0(new A.aa(n,new A.aEA(),q),!0,q.h("aH.E"))
-n=A.aM(a5,d,a0).w.a.a/12
+n=A.aM(a5,d,a0).w.a.a/15
 r=A.ah(a5,B.m,a1)
 r.toString
 r=r.gDw()
@@ -48390,7 +48390,7 @@ $S:0}
 A.qv.prototype={
 L(a){var s=null,r=A.N1(this.c,this.d),q=A.U(a).p2.w
 if(q==null)q=s
-else q=q.XO("Lato",A.aM(a,s,t.l).w.a.a/1>800?20:14,B.ax)
+else q=q.XO("Lato",A.aM(a,s,t.l).w.a.a/1>800?16:14,B.ax)
 return new A.bf(B.pk,new A.hB(B.e_,s,s,A.eg(A.a([r,B.jI,A.cd(this.e,s,s,s,s,s,s,s,q,s,s,s)],t.p),B.G,B.H,B.Q),s),s)}}
 A.m7.prototype={
 L(a){var s,r,q=this.e,p=q==null?20:q,o=this.f
